@@ -44,9 +44,10 @@ Featured Projects
 
 AI Smart Task Manager
 
-* AI-powered task prioritization system
-* User authentication & dashboard
-* Built with .NET + MongoDB + Flask
+AI-powered task prioritization system
+User authentication & dashboard
+Built with .NET + MongoDB + Flask
+[View Project](https://github.com/malikzain13/AI_Smart_Task_Manager)
 
 Food Ordering System
 
@@ -54,17 +55,20 @@ Online food ordering platform with menu browsing
 Cart system, order placement & user management
 Admin panel for managing food items and orders
 Tech: HTML/CSS + JavaScript + Backend Integration
+[View Project](https://github.com/malikzain13/Food-Ordering-System)
 
 MPI Multi Client-Server System
 
 * Parallel communication using MPI (mpi4py)
 * Supports multiple clients with server coordination
 * Demonstrates distributed computing concepts
+* [View Project](https://github.com/malikzain13/MPI_client_server-system)
 
 Task Management System (Web App)
 
 * Full-stack application with login, dashboard & project tracking
 * Built using Flask + HTML + SQL + MongoDB
+* [View Project](https://github.com/malikzain13/task_management-System)
 
 GitHub Stats
 
